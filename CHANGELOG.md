@@ -7,3 +7,8 @@
 ## [0.1.0] - 2024-09-30
 
 
+## [0.1.0] - 2024-10-23
+
+c067a4f fix: test path
+8eb30d2 chore: release version 0.1.0
+
