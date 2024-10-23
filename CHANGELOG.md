@@ -12,3 +12,6 @@
 c067a4f fix: test path
 8eb30d2 chore: release version 0.1.0
 
+## [0.1.1] - 2024-10-23
+
+
